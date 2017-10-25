@@ -1,0 +1,8 @@
+{
+  "description": "google apps script kintone addon",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:UUUM/gas-kintone-addon.git"
+  },
+  "license": "Apache-2.0"
+}
