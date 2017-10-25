@@ -1,0 +1,22 @@
+{
+  globals: {
+    // Google Apps Script
+    HtmlService: true,
+    Logger: true,
+    PropertiesService: true,
+    ScriptApp: true,
+    SpreadsheetApp: true,
+
+    // triggers
+    onInstall: true,
+    onOpen: true,
+
+    // External Libraries
+    GasTap: true,
+    KintoneLib: true,
+
+    // Our functions, classes
+    testRunner: true,
+  },
+  extends: 'airbnb-es5',
+}
