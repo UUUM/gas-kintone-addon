@@ -4,5 +4,12 @@
     "type": "git",
     "url": "git@github.com:UUUM/gas-kintone-addon.git"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb-es5": "^1.2.0",
+    "eslint-plugin-react": "^7.4.0",
+    "node-google-apps-script": "^1.1.5"
+  }
 }
