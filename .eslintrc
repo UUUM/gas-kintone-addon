@@ -16,6 +16,7 @@
     KintoneLib: true,
 
     // Our functions, classes
+    TestCommon: true,
     testRunner: true,
   },
   extends: 'airbnb-es5',
